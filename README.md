@@ -1,11 +1,9 @@
-# CS-305: Software Security (2025 C-1)
+# CS-305: Software Security 2025 C-1
 
 ## **Project Overview**
 This repository contains my work for **CS-305: Software Security**. It includes the **Artemis Financial Practices for Secure Software Report**, which showcases my ability to assess security vulnerabilities, implement secure coding practices, and strengthen software security.
 
-📂 **Artifact:** [Artemis Financial Practices for Secure Software Report]  
-🔗 **Repository Link:** [CS-305 Software Security Repo](https://github.com/Cmabirizi/CS-305-11658-M01-Software-Security-2025-)
-
+📂 **Artifact:** ***Artemis Financial Practices for Secure Software Report*** 
 ---
 
 ## **1. Client Summary and Software Requirements**
